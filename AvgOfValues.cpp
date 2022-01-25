@@ -2,7 +2,7 @@
 Student Name:  James Jensen
 Date: 25/01/2022
 Lab Assignment: Lab 01 - Ch2 Intro
-Project Name: Lab01_03Proj
+Project Name: Lab01_02Proj
 Description: This calculates the sum of five hardcoded values
 Credits: Not Applicable
 */
