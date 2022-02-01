@@ -3,7 +3,7 @@ Student Name:  James Jensen
 Date: 01/02/2022
 Lab Assignment: Lab 02 - Ch3 ExpressInteract
 Project Name: Lab02_03Proj
-Description: This program gets the lenght and width for two rectangles and
+Description: This program gets the length and width for two rectangles and
 informs the user which of the two is bigger.
 Credits: Not Applicable
 */
