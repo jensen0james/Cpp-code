@@ -2,7 +2,7 @@
 Student Name:  James Jensen
 Date: 01/02/2022
 Lab Assignment: Lab 02 - Ch3 ExpreeInteract
-Project Name: Lab01_04Proj
+Project Name: Lab02_01Proj
 Description: User enters in values for the gas tank size and distance car can travel on
 full tank and then calculates the MPG.
 Credits: Not Applicable
