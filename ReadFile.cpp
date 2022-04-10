@@ -1,3 +1,11 @@
+/*
+Student Name:  James Jensen
+Date: 10/04/2022
+Lab Assignment: Lab 09 - Ch7 Arrays
+Project Name: Lab09_Proj
+Description: Read and manipulate values from file
+Credits: Not Applicable
+*/
 #include <list>
 #include <iostream>
 #include <fstream>
@@ -8,7 +16,6 @@ int main()
 	ifstream textFile;
 	string fileName = "C:\\Users\\jense\\Downloads\\random.txt";
 	int text;
-	// A list is better for this problem than an array
 	list <int> allText;
 	int sum = 0;
 
@@ -34,3 +41,10 @@ int main()
 
 	return 0;
 }
+
+/*
+Proof:
+Number of numbers: 200
+Sum of the numbers: 105527
+Average of the numbers: 527.635
+*/
